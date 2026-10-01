@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.apexdigitalsolutions.co.za/sitemap.xml

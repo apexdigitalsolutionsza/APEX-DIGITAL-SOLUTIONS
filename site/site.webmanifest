@@ -1,0 +1,16 @@
+{
+  "name": "Apex Digital Solutions",
+  "short_name": "Apex Digital",
+  "description": "Modern websites and digital solutions for South African businesses.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B1220",
+  "theme_color": "#0B1220",
+  "icons": [
+    {
+      "src": "assets/img/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
